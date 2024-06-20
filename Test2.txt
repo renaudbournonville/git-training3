@@ -2,3 +2,5 @@ Initial text of the file - Test2
 Add this line
 New line here...
 2
+
+line added in newBranch
