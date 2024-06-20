@@ -1,1 +1,3 @@
 Initial text of the file - Test2
+Add this line
+New line here...
